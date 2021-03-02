@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//ingochris.tech/terminal/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "//ingochris.tech/terminal/static/js/main.6e6829fa.chunk.js",
+    "main.js.map": "//ingochris.tech/terminal/static/js/main.6e6829fa.chunk.js.map",
+    "runtime-main.js": "//ingochris.tech/terminal/static/js/runtime-main.0939164b.js",
+    "runtime-main.js.map": "//ingochris.tech/terminal/static/js/runtime-main.0939164b.js.map",
+    "static/js/2.d6ea5dfe.chunk.js": "//ingochris.tech/terminal/static/js/2.d6ea5dfe.chunk.js",
+    "static/js/2.d6ea5dfe.chunk.js.map": "//ingochris.tech/terminal/static/js/2.d6ea5dfe.chunk.js.map",
+    "static/js/3.96d0321b.chunk.js": "//ingochris.tech/terminal/static/js/3.96d0321b.chunk.js",
+    "static/js/3.96d0321b.chunk.js.map": "//ingochris.tech/terminal/static/js/3.96d0321b.chunk.js.map",
+    "index.html": "//ingochris.tech/terminal/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "//ingochris.tech/terminal/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d6ea5dfe.chunk.js.LICENSE.txt": "//ingochris.tech/terminal/static/js/2.d6ea5dfe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "//ingochris.tech/terminal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0939164b.js",
+    "static/js/2.d6ea5dfe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6e6829fa.chunk.js"
+  ]
+}
